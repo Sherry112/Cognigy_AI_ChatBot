@@ -17,6 +17,12 @@ Open the Terminal and enter npm install. This will install all the required depe
 
 Run npm start in the terminal. This will start the project on the Browser Port 3000 if it is not already occupied by another operation.
 
-## Screenshot
+# Packages Used:
+
+- @cognigy/socket-client",
+- @mui/styles
+- dotenv
+
+# Screenshot
 
 ![Alt text](img/image2.PNG?raw=true "Title")
