@@ -19,4 +19,4 @@ Run npm start in the terminal. This will start the project on the Browser Port 3
 
 ## Screenshot
 
-![Alt text](img/image1.PNG?raw=true "Title")
+![Alt text](img/image2.PNG?raw=true "Title")
